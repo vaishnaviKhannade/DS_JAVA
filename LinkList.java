@@ -24,7 +24,7 @@ class LinkList{
          size+=1;
       }
 
-      //insertion from last of linklist
+      //insertion from last of linklistt
       public void insertionLast(int val){
        
         if(tail==null)
